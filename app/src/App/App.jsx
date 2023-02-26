@@ -7,9 +7,12 @@ import './App.css'
 const App = () => {
   return (
     <div className='App'>
+      <p>Código de seguridad: 'estado'</p>
+
       <UseState/>
       <UseReducer/>
-      <ClassState />
+      
+      {/* <ClassState /> */}
     </div>
   )
 }
