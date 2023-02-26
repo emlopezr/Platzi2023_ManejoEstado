@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Platzi2023_ManejoEstado/static/css/main.5b30811f.css",
+    "main.js": "/Platzi2023_ManejoEstado/static/js/main.976e8314.js",
+    "index.html": "/Platzi2023_ManejoEstado/index.html",
+    "main.5b30811f.css.map": "/Platzi2023_ManejoEstado/static/css/main.5b30811f.css.map",
+    "main.976e8314.js.map": "/Platzi2023_ManejoEstado/static/js/main.976e8314.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b30811f.css",
+    "static/js/main.976e8314.js"
+  ]
+}
